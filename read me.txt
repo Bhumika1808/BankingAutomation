@@ -1,0 +1,3 @@
+Frst create app password using gmail and replace it with mine.
+
+install pillow, tkintertable, gmail 3rd party libs
